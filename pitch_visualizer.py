@@ -227,7 +227,7 @@ def chart_movement(df: pd.DataFrame, title: str) -> plt.Figure:
 
     hand_label = {"R": "RHP", "L": "LHP"}.get(hand, "RHP")
     ax.set_xlabel(
-        f"Horizontal break (inches) — ← glove side | arm side → ({hand_label}, pitcher's POV)",
+        f"Horizontal break (inches) — ← glove side | arm side → ({hand_label})",
         fontsize=10,
     )
     ax.set_ylabel("Vertical break (inches)", fontsize=11)
