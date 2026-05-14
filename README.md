@@ -13,10 +13,11 @@ visualizations of their pitch movement, velocity distribution, and usage.
 - CSV export of summary data
 
 ## Setup
-pip install -r requirements.txt
-streamlit run pitch_visualizer.py
-
-A browser tab opens at `localhost:8501`.
+   
+```
+   pip install -r requirements.txt
+   streamlit run pitch_visualizer.py
+```
 
 ## Data source
 
