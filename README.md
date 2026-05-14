@@ -43,6 +43,6 @@ MLB Statcast via [pybaseball](https://github.com/jldbc/pybaseball).
 - To connect back to the pitch movement chart, the overlap between pitch velocities here is something that McLean's pitches excel at. McLean's Sinker, Four-Seam, and Cutter are all thrown at 90+ mph and his changeup and sweeper have significant overlap in terms of velocity. The overlapping movement profiles and velocity profiles of many of McLean's pitches allow for them to look the same coming out of his hand, which makes it hard for batters to identify which of McLean's 6 pitches is being thrown. 
 
 ## Future Improvements
--Pitcher vs. pitcher comparison view
--Filter pitches by count, batter handedness, or game situation
--Pitch outcome overlays (whiffs/hard contact) 
+- Pitcher vs. pitcher comparison view
+- Filter pitches by count, batter handedness, or game situation
+- Pitch outcome overlays (whiffs/hard contact) 
