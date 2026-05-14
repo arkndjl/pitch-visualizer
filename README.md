@@ -34,7 +34,3 @@ MLB Statcast via [pybaseball](https://github.com/jldbc/pybaseball).
 ## Sample Output
 
 (using Nolan McLean's 2025 Season)
-
-- ![SAMPLE: Nolan McLean 2025 Pitch Movement](mclean_pitchmovement_2025.png)
-- ![SAMPLE: Nolan McLean 2025 Pitch Usage](mclean_pitchusage_2025.png)
-- ![SAMPLE: Nolan McLean 2025 Velocity Distribution](mclean_velodistribution_2025.png)
